@@ -198,3 +198,4 @@
                 color: var(--link-in-bio-color);
                 background-color: #e6e6e6;
             }
+.async-hide { opacity: 0 !important} 
